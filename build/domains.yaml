@@ -1,0 +1,7 @@
+default: blinky
+build_dir: /home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build
+domains:
+  - name: blinky
+    build_dir: /home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/blinky
+flash_order:
+  - blinky

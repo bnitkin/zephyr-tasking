@@ -1,0 +1,13 @@
+# Target labels
+ blinky
+# Source files and their labels
+/home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/_sysbuild/sysbuild/images/CMakeFiles/blinky
+/home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/_sysbuild/sysbuild/images/CMakeFiles/blinky.rule
+/home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/_sysbuild/sysbuild/images/CMakeFiles/blinky-complete.rule
+/home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-build.rule
+/home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-configure.rule
+/home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-download.rule
+/home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-install.rule
+/home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-mkdir.rule
+/home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-patch.rule
+/home/ben/ncs/v2.7.0/zephyr/samples/basic/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-update.rule

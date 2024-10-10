@@ -1,0 +1,17 @@
+{
+  "board": "nrf21540dk/nrf52840",
+  "boardRevision": "",
+  "boardDir": "/home/ben/ncs/v2.7.0/zephyr/boards/nordic/nrf21540dk",
+  "shouldBuild": true,
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [
+    "prj.conf"
+  ],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": [],
+  "sysbuild": true
+}
