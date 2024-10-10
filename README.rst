@@ -4,6 +4,12 @@
 
    Blink an LED forever using the GPIO API.
 
+Notes
+********
+This is a heavily modified version of the Zephyr `blinky` demo, with more tasks
+and some added IPC. It demonstrates how different priorities interact in Zephyr,
+when the processor will preempt a running thread, and how events work.
+
 Overview
 ********
 
